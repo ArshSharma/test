@@ -1,0 +1,5 @@
+[project]
+name = "g7build"
+version = "0.1.0"
+description = "End-to-end PR-chain test workspace (G7)."
+requires-python = ">=3.11"
